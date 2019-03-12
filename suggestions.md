@@ -17,6 +17,7 @@ Reinforcement Learning for Bandit Neural Machine Translation with Simulated Huma
 Supervising Unsupervised Learning | Pranava | [PDF](http://www.mit.edu/~vgarg/nips2018sup.pdf)|
 Learning SMaLL Predictors | Pranava | [PDF](http://www.mit.edu/~vgarg/nips2018small.pdf)|
 Deep-carving: Discovering visual attributes by carving deep neural nets | Pranava | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shankar_DEEP-CARVING_Discovering_Visual_2015_CVPR_paper.pdf)|
+Gated Path Planning Networks | Georgios R. | [PDF](http://proceedings.mlr.press/v80/lee18c/lee18c.pdf)|
 ---------------------------------------------------------------------------------------
 
 
